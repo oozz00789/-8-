@@ -22,7 +22,7 @@ public class dssa
       avg.y=(obj1.y+obj2.y)/2;
 
       System.out.println("obj1.x="+obj1.x+", obj1.y="+obj1.y);
-      System.out.println("obj2.x="+obj2.x+", obj1.y="+obj2.y);
+      System.out.println("obj2.x="+obj2.x+", obj2.y="+obj2.y);
       System.out.println("avg.x="+avg.x+", avg.y="+avg.y);
    }
 }
